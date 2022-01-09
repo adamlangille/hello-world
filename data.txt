@@ -1,0 +1,10 @@
+Day of Week,Celestial Body
+Sunday,Sun
+Monday,Moon
+Tuesday,Mars
+Wednesday,Mercury
+Thursday,Jupiter
+Friday,Venus
+Saturday,Saturn
+
+
